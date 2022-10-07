@@ -24,7 +24,7 @@ Some of the features include
 #### Why is my toon shader black?
 
 If there are no dynamic lights in the scene, 
-the avatar will appear as black, 
+the avatar will appear as black while using the toon shader, 
 please set brightness to "1" and set a fake shading texture.
 An example of this is the AVATAREXAMPLE 
 material found in the BracketShader folder.
