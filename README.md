@@ -1,7 +1,7 @@
 
 # BracketShader
 
-![Example](https://user-images.githubusercontent.com/69521768/194445500-fef27788-fe40-4dd1-807b-c9473a999004.png)
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/69521768/194712970-47fdfa8f-51f8-4563-b22d-a4b19b9c509e.png">
 
 A shader with PBR and toon support made for
  use in unity URP by BracketProto.
@@ -17,9 +17,16 @@ Some of the features include
 - Matcap
 - Outlines
 - Dynamic hue shifting
+- Glitter
+
+![Example](https://user-images.githubusercontent.com/69521768/194445500-fef27788-fe40-4dd1-807b-c9473a999004.png)
 
 
 ## FAQ
+
+#### Examples?
+
+Open the folder BracketShader/Examples and open Example Scene.unity
 
 #### Why is my toon shader black?
 
