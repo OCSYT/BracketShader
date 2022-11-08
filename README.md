@@ -32,7 +32,7 @@ Open the folder BracketShader/Examples and open Example Scene.unity
 
 If there are no dynamic lights in the scene, 
 the avatar will appear as black while using the toon shader, 
-please set brightness to "1" and set a fake shading texture.
+please set the fake light color to white.
 An example of this is the AVATAREXAMPLE 
 material found in the BracketShader folder.
 
